@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[Link](/newPage1.md)
 
 You can use the [editor on GitHub](https://github.com/DharmaShri/App1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
