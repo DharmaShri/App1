@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages newPage1
+## Welcome to GitHub Page1
 [Home](/index.md)
-[newPage3](/newPage3.md)
+[Page3](/newPage3.md)
