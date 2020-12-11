@@ -1,4 +1,9 @@
 ## Welcome to GitHub Page3
-[Home](/index.md)
-[Page1](/newPage1.md)
-[Page4](/newPage4.md)
+[Home ](/index.md)
+[page1](/page1.md)
+[page2](/page2.md)
+[page3](/page3.md)
+[page4](/Page4.md)
+[page5](/page5.md)
+[page6](/page6.md)
+[page7](/page7.md) 
