@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
-[Home ](/)
-[Page1](/Page1.md)
-[Page3](/Page3.md)
-[Page4](/Page4.md)
-[Page5](/page5.md)
-[Page6](/page6.md)
-[Page7](/page7.md) ## - Old index.
-
+[Home ](/index.md)
+[page1](/page1.md)
+[page2](/page2.md)
+[page3](/page3.md)
+[page4](/Page4.md)
+[page5](/page5.md)
+[page6](/page6.md)
+[page7](/page7.md) 
