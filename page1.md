@@ -6,4 +6,5 @@
 [page4](/page4.md)
 [page5](/page5.md)
 [page6](/page6.md)
-[page7](/page7.md) 
+[page7](/page7.md)
+[ගවේශනය](/gaweshanaya/gaweshanaya.md)
