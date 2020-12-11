@@ -1,9 +1,9 @@
-## Welcome to GitHub Page2
+## Welcome to Research Page2
 [Home ](/index.md)
 [page1](/page1.md)
 [page2](/page2.md)
 [page3](/page3.md)
-[page4](/Page4.md)
+[page4](/page4.md)
 [page5](/page5.md)
 [page6](/page6.md)
 [page7](/page7.md) 
