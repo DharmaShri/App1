@@ -7,4 +7,4 @@
 [page5](/page5.md)
 [page6](/page6.md)
 [page7](/page7.md)
-[page7](/gaweshanaya/page7.md)
+[page7](/gaweshanaya/gaweshanaya.md)
