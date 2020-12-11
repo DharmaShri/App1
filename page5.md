@@ -13,5 +13,23 @@
 2. අයිකම 2
 3. අයිතම3
 
-[විපස්සනා](http://vipassanapage.wordpress.com)
+[විපස්සනා](vipassanapage.wordpress.com)
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
