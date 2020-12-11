@@ -1,6 +1,5 @@
 ## Welcome to GitHub Page1
 [Home ](/index.md)
-[Home ](/)
 [Page1](/newPage1.md)
 [Page3](/newPage3.md)
 [Page4](/newPage4.md)
