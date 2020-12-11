@@ -13,5 +13,5 @@
 2. අයිකම 2
 3. අයිතම3
 
-[විපස්සනා](vipassanapage.wordpress.com)
+[විපස්සනා](http://vipassanapage.wordpress.com)
 
