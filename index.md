@@ -1,21 +1,9 @@
 ## Welcome to GitHub Pages
+[Home ](/)
 [Page1](/newPage1.md)
 [Page3](/newPage3.md)
 [Page4](/newPage4.md)
 [Page5](/page5.md)
+[Page6](/page6.md)
+[Page7](/page7.md) - Old index.
 
-You can use the [editor on GitHub](https://github.com/DharmaShri/App1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DharmaShri/App1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
