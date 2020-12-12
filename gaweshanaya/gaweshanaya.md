@@ -2,6 +2,7 @@
 
 [Home ](/index.md)
 [පියවර1](/page1.md)
+[Home ](/index.md)
 
 
 ## හැඳින්වීම.
