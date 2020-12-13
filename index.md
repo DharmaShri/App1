@@ -1,6 +1,6 @@
 ## බුදුදහම සොයායාම....
 
-[අරමුනු](/index.md)
+[අරමුන](/index.md)
 [සැලසුම්](/page1.md)
 [page2](/page2.md)
 [page3](/page3.md)
