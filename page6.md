@@ -1,16 +1,12 @@
-## Research - page6
-[Home ](/index.md)
-[page1](/page1.md)
-[page2](/page2.md)
-[page3](/page3.md)
-[page4](/page4.md)
-[page5](/page5.md)
-[page6](/page6.md)
-[page7](/page7.md)
+[පටුන සහ හැඳින්වීම](/index.md) |
+
+## පූජ්‍ය කටුකුරුන්දේ ඤානානන්ද හිමියන්ගේ නිගමන
+
+- නිගමනය - දේශනය/ පොත පිටුව.
 
 
 
-
+============
 
 Syntax highlighted code block
 
