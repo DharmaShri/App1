@@ -1,2 +1,0 @@
-# DharmaShri/Research
-බුදුදහම සොයායාම.
