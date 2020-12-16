@@ -1,3 +1,13 @@
+[පටුන සහ හැඳින්වීම](/index.md) |
+
+## පිටකාගත අදහස්
+
+	- පටිසම්භිදාමග්ගය.
+
+
+==========
+
+
 ## Welcome to Research Pages7
 [Home ](/index.md)
 [page1](/page1.md)
