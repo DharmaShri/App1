@@ -1,11 +1,9 @@
-## Welcome to Research Page4
-[Home ](/index.md)
-[page1](/page1.md)
-[page2](/page2.md)
-[page3](/page3.md)
-[page4](/page4.md)
-[page5](/page5.md)
-[page6](/page6.md)
-[page7](/page7.md) 
+[පටුන සහ හැඳින්වීම](/index.md) |
 
-You Can write any thing here. Use "Mark"
+## මූලාශ්‍ර හා වැඩිදුර තොරතුරු
+
+- සූත්‍ර උදෘත.
+- සබැඳි ලැයිස්තුව.
+
+
+	+ රූප උදෘත ලිපි ආදිය සඳහා බාහිර (නිතර වෙනස් නොවන) Repository in wordpress පවත්වා ගැනීම.
