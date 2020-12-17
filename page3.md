@@ -16,7 +16,7 @@
 #### මහායානිකයෝ.
 #### හින්දු දාර්ශනික මත.
 
-## top
+
 
 #### බටහිර දාර්ශනිකයෝ
 
@@ -28,9 +28,3 @@ The mind-body problem was brought up in antiquity, and can be seen in the works 
 #### නූතන විද්‍යාත්මක අදහස්.
 
 Mind Body Problum.
-
-
-
-
-
-[top](#top)
