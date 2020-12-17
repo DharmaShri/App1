@@ -22,7 +22,25 @@
 
 #### Who is credited with the "mind body" problem?
 The mind-body problem was brought up in antiquity, and can be seen in the works of Plato, though its modern formulation can be credited to René Descartes, who also presents a dualist response.
+sd
+df
+df
+af
+f
+fgtr
+e
+grqergerg
 
+grqergergeg
+grqergerg
+
+
+ef
+wf
+f
+qe
+wef
+we
 
 
 ### නූතන විද්‍යාත්මක අදහස්.
