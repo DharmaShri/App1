@@ -16,10 +16,15 @@
 ### මහායානිකයෝ.
 ### හින්දු දාර්ශනික මත.
 
+
+
 ### බටහිර දාර්ශනිකයෝ
 
-	- Who is credited with the "mind body" problem?
+#### Who is credited with the "mind body" problem?
 The mind-body problem was brought up in antiquity, and can be seen in the works of Plato, though its modern formulation can be credited to René Descartes, who also presents a dualist response.
 
+
+
 ### නූතන විද්‍යාත්මක අදහස්.
-	- Mind Body Problum.
+
+Mind Body Problum.
