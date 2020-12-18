@@ -6,4 +6,5 @@
 - සබැඳි ලැයිස්තුව.
 
 
-	+ රූප උදෘත ලිපි ආදිය සඳහා බාහිර (නිතර වෙනස් නොවන) Repository in wordpress පවත්වා ගැනීම.
+[විපස්සනා](http://vipassanapage.wordpress.com)
+[වීමංසා](http://veemansa.wordpress.com)
