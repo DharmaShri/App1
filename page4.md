@@ -6,5 +6,4 @@
 - සබැඳි ලැයිස්තුව.
 
 
-[විපස්සනා](http://vipassanapage.wordpress.com)
-[වීමංසා](http://vemansa.wordpress.com)
+[විපස්සනා](http://vipassanapage.wordpress.com)|
