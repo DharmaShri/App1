@@ -7,4 +7,4 @@
 
 
 [විපස්සනා](http://vipassanapage.wordpress.com)
-[වීමංසා](http://veemansa.wordpress.com)
+[වීමංසා](http://vemansa.wordpress.com)
