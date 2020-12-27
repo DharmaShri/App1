@@ -2,6 +2,8 @@
 
 ## To Do
 
+Rathana Suttha
+
 What Is Dualism Psychology?
 
 https://www.betterhelp.com/advice/psychologists/what-is-dualism-psychology/
