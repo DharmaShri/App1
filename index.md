@@ -26,5 +26,4 @@
 ========
 
 
-[To Do](C:\Users\Dharma Shri\OneDrive\Desktop\text.txt‍‍) |
 [පටුන සහ හැඳින්වීම](/page0.md) |
