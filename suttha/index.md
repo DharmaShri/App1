@@ -5,3 +5,11 @@
 - [ලෝක කතා](../suttha/ලෝක කතා.md)
 - [රතන සූත්‍රය](../suttha/රතනසුත්ත.md)
 - [උරග සූත්‍රය](../suttha/උරග සූත්‍රය.md) - හැව අරින්නාක් මෙන් ශෝකය කෝපය හැරදැමීම.
+
+
+
+-----
+
+
+
+[In the Buddha's Words - Bikku Bodi](https://www.dhammawheel.com/viewtopic.php?p=279487#p279487)
