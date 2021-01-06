@@ -9,7 +9,3 @@
 
 
 -----
-
-
-
-[In the Buddha's Words - Bikku Bodi](https://www.dhammawheel.com/viewtopic.php?p=279487#p279487)
