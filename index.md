@@ -16,4 +16,4 @@
 
 
 ------
-[MySite](https://dharmashri.github.io/MySite/)|[ReadMe](/ReadMe.md)|[r](/r.md)
+[MySite](https://dharmashri.github.io/MySite/)|[Markdown](https://guides.github.com/features/mastering-markdown/)|[Syntax](/r.md)
