@@ -16,7 +16,7 @@
 Content in the first column | Content in the second column |
   |  |  |
   |  |  |
-  |  |  |
+ඡබ්බිසෝධන  | අර්හත්වය විමසීම  |[1](https://tipitaka.lk/mn-3-2-2/pali) [2](http://localhost:8400/mn-3-2-2)
 
 
 
