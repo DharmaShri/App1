@@ -10,11 +10,9 @@
 
 -----
 
-- [In the Buddha's Words - Bikku Bodi](https://www.dhammawheel.com/viewtopic.php?p=279487#p279487)
-
 සූත්‍ර නාමය | කරුණු | යොමුව
 ------------ | ------------- | -----------
-Content from cell 1 | Content from cell 2 |   ගගග
+සොපාදිසෙස සුත‍්තං | යම් කිසිවෙක් උපාදාන ශේෂ ඇතියේ කලුරිය කෙරේ නම් ඒ හැම දෙන නිරයෙන් නො මිදුණේ වෙයි. (වැරදී) | [ 1](https://tipitaka.lk/an-9-1-2-2/22-3/sinh)
 Content in the first column | Content in the second column |
   |  |  |
   |  |  |
@@ -23,6 +21,8 @@ Content in the first column | Content in the second column |
 
 
 
+
+  - [In the Buddha's Words - Bikku Bodi](https://www.dhammawheel.com/viewtopic.php?p=279487#p279487)
 
 
 ----
