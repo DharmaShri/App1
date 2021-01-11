@@ -12,5 +12,18 @@
 
 - [In the Buddha's Words - Bikku Bodi](https://www.dhammawheel.com/viewtopic.php?p=279487#p279487)
 
+සූත්‍ර නාමය | කරුණු | යොමුව
+------------ | ------------- |  ---------
+Content from cell 1 | Content from cell 2 |   ගගග
+Content in the first column | Content in the second column |
+  |  |  |
+  |  |  |
+  |  |  |
+
+  
+
+
+
+
 ----
 [රූප සටහන්](../GA/රූපසටහන්.md)|[දාර්ශනික හැදෑරීම්](../දාර්ශනික හැදෑරීම.md)
