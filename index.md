@@ -13,7 +13,7 @@
 - [සූත්‍ර අධ්‍යයනය](/suttha/index.md)
 - [දාර්ශනික හැදෑරීම්](/දාර්ශනික හැදෑරීම.md)
 - [සටහන්](/සටහන්.md)
-
+-ppp
 
 ------
 [MySite](https://dharmashri.github.io/MySite/)|[Markdown](https://guides.github.com/features/mastering-markdown/)|[Syntax](/r.md)
