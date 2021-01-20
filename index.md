@@ -12,4 +12,4 @@
 
 
 ------
-[MySite](https://dharmashri.github.io/MySite/)|[Markdown](https://guides.github.com/features/mastering-markdown/)|[Syntax](/r.md)
+[MySite](https://dharmashri.github.io/MySite/)|[MyLocalSite](https://dharmashri.github.io/MyLocalSite/)|[Markdown](https://guides.github.com/features/mastering-markdown/)|[Syntax](/r.md)
