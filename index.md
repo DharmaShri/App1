@@ -10,7 +10,7 @@
 - [සූත්‍ර අධ්‍යයනය](/suttha/index.md)
 - [දාර්ශනික හැදෑරීම](/දාර්ශනික හැදෑරීම.md)
 - [දාර්ශනික පද්ධති](/දාර්ශනික පද්ධති.md)
-- [සටහන්](/README.md)
+- [සටහන්](/සටහන්.md)
 
 ------
 [MySite](https://dharmashri.github.io/MySite/)|[MyLocalSite](https://dharmashri.github.io/MyLocalSite/)|[Markdown](https://guides.github.com/features/mastering-markdown/)|[Syntax](/r.md)|[onAwakning](http://buddhaspace.blogspot.com/search/label/On%20Awakening)
